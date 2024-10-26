@@ -11,3 +11,8 @@
   @import "toggle";
   @import "dark";
 {%- endif -%}
+
+
+.utterances {
+  max-width: 100% !important;
+}
