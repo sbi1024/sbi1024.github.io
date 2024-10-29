@@ -12,10 +12,10 @@ linkedin_username: linkedin
 facebook_username: facebook
 
 # External API
-giscus_repo: "byanko55/jekyll-theme-satellite"
-giscus_repoId: "R_kgDOJ6fqWg"
+giscus_repo: "sbi1024/blog-comments"
+giscus_repoId: "R_kgDONGEZOw"
 giscus_category: "Q&A"
-giscus_categoryId: "DIC_kwDOJ6fqWs4Cc7p7"
+giscus_categoryId: "DIC_kwDONGEZO84CjymC"
 goatcounter_code: byanko77
 google_analytics:
 
@@ -51,3 +51,5 @@ defaults:
 kramdown:
   input: GFM
   hard_wrap: true
+
+
