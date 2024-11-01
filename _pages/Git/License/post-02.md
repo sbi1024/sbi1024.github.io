@@ -4,8 +4,8 @@ date: "2024-10-26"
 thumbnail: "/images/gitimg.png"
 tags:
     - Git
-    - License
-    - Study
+    - license
+    - study
 ---
 
 

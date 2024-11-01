@@ -4,8 +4,8 @@ date: "2024-11-01"
 thumbnail: "/images/target.png"
 tags:
     - Etc
-    - Diary
-    - Target
+    - diary
+    - target
 ---
 
 -----

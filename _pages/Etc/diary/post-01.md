@@ -5,7 +5,7 @@ thumbnail: "/images/regret.webp"
 tags:
     - Etc
     - diary
-    - Regret
+    - regret
 ---
 
 
