@@ -29,22 +29,6 @@ tags:
 <hr>
 
 # 입출력 예
-<style>
-  table {
-    width: 1000px;
-  }
-</style>
-
-<table>
-  <tr>
-    <th>컬럼 1</th>
-    <th>컬럼 2</th>
-  </tr>
-  <tr>
-    <td>내용</td>
-    <td>더 긴 내용</td>
-  </tr>
-</table>
 <table class="table">
   <thead>
     <tr>
